@@ -8,18 +8,18 @@ The repository contains the project did for the Recommender Systems Course at @P
 Using Python I implemented an Auto Encoder algorithm for a Recommender System Problem. In order to understand better the idea behind the method I followed the paper inside the Repo. 
 [[AutoRec](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf "AutoRec")]
 
-![]({{site.baseurl}}/img/default_ae.png)
+![](img/default_ae.png)
 
 #### Main Library
 
-![]({{site.baseurl}}/img/pytorch-logo-flat.png)
+![](img/pytorch-logo-flat.png)
 
 ### ALS
 
 After the first implementation I would like to try different libraries. For this reason I learnt how to implement an ALS using Spark.
 
-![]({{site.baseurl}}/img/mf.png)
+![](img/mf.png)
 
-## Main Library
+#### Main Library
 
-![]({{site.baseurl}}/img/spark-logo-hd.png)
+![](img/spark-logo-hd.png)
