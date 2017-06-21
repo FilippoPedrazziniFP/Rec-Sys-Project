@@ -23,3 +23,4 @@ After the first implementation I would like to try different libraries. For this
 #### Main Library
 
 ![](img/spark-logo-hd.png)
+
