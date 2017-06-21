@@ -12,7 +12,7 @@ Using Python I implemented an Auto Encoder algorithm for a Recommender System Pr
 
 #### Main Library
 
-<img src="img/pytorch-logo-flat.png" width="50%">
+<img src="img/pytorch-logo-flat.png" width="20%">
 
 ### ALS
 
@@ -22,4 +22,4 @@ After the first implementation I would like to try different libraries. For this
 
 #### Main Library
 
-<img src="img/spark-logo-hd.png" width="50%">
+<img src="img/spark-logo-hd.png" width="20%">
